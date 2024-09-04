@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Alicansan
 - 👀 I’m interested in mostly web development.
-- 🌱 I’m currently learning Html, Css, JS, React and related anything with them.
+- 🌱 I’m currently doing stuff with Html, Css, JS, React and related anything with them.
 - 📫 How to reach me alicansan2606@gmail.com
