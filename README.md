@@ -2,4 +2,4 @@
 - 👀 I’m interested in mostly web development.
 - 🌱 I’m currently doing stuff with Html, Css, JS, React and related anything with them.
 - 📫 How to reach me alicansan2606@gmail.com
-- Take a look at my projects from [here] (https://alicansanportfolio-git-master-alicans-projects-e59d79a8.vercel.app/](https://alicansan.vercel.app/)
+- Take a look at my projects from [here](https://alicansan.vercel.app/)
